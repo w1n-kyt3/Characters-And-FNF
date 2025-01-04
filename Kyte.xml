@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Kyte.png">
+<SubTexture name="Kyte Down0000" x="1788" y="590" width="170" height="540" frameX="0" frameY="0" frameWidth="170" frameHeight="540" />
+<SubTexture name="Kyte Down0001" x="1574" y="592" width="182" height="528" frameX="0" frameY="0" frameWidth="182" frameHeight="528" />
+<SubTexture name="Kyte Down0002" x="0" y="1334" width="194" height="514" frameX="0" frameY="0" frameWidth="194" frameHeight="514" />
+<SubTexture name="Kyte Idle0000" x="288" y="726" width="216" height="604" frameX="0" frameY="0" frameWidth="216" frameHeight="604" />
+<SubTexture name="Kyte Idle0001" x="504" y="726" width="216" height="602" frameX="0" frameY="0" frameWidth="216" frameHeight="602" />
+<SubTexture name="Kyte Idle0002" x="720" y="726" width="216" height="598" frameX="0" frameY="0" frameWidth="216" frameHeight="598" />
+<SubTexture name="Kyte Idle0003" x="1358" y="0" width="216" height="596" frameX="0" frameY="0" frameWidth="216" frameHeight="596" />
+<SubTexture name="Kyte Idle0004" x="1358" y="596" width="214" height="594" frameX="0" frameY="0" frameWidth="214" frameHeight="594" />
+<SubTexture name="Kyte Idle0005" x="1574" y="0" width="214" height="592" frameX="0" frameY="0" frameWidth="214" frameHeight="592" />
+<SubTexture name="Kyte Left0000" x="1788" y="0" width="290" height="590" frameX="0" frameY="0" frameWidth="290" frameHeight="590" />
+<SubTexture name="Kyte Left0001" x="936" y="726" width="286" height="598" frameX="0" frameY="0" frameWidth="286" frameHeight="598" />
+<SubTexture name="Kyte Left0002" x="0" y="726" width="288" height="608" frameX="0" frameY="0" frameWidth="288" frameHeight="608" />
+<SubTexture name="Kyte Right0000" x="1128" y="0" width="230" height="616" frameX="0" frameY="0" frameWidth="230" frameHeight="616" />
+<SubTexture name="Kyte Right0001" x="706" y="0" width="206" height="618" frameX="0" frameY="0" frameWidth="206" frameHeight="618" />
+<SubTexture name="Kyte Right0002" x="912" y="0" width="216" height="618" frameX="0" frameY="0" frameWidth="216" frameHeight="618" />
+<SubTexture name="Kyte Up0000" x="470" y="0" width="236" height="718" frameX="0" frameY="0" frameWidth="236" frameHeight="718" />
+<SubTexture name="Kyte Up0001" x="258" y="0" width="212" height="724" frameX="0" frameY="0" frameWidth="212" frameHeight="724" />
+<SubTexture name="Kyte Up0002" x="0" y="0" width="258" height="726" frameX="0" frameY="0" frameWidth="258" frameHeight="726" />
+</TextureAtlas>
