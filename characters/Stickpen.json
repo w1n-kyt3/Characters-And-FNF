@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"offsets": [38, 12],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Sid"
+		},
+		{
+			"offsets": [19, 9],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Sle"
+		},
+		{
+			"offsets": [43, 8],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Sup"
+		},
+		{
+			"offsets": [22, 12],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Sri"
+		},
+		{
+			"offsets": [80, 23],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Sdo"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Stickpen",
+	"position": [-300, 50],
+	"healthicon": "Stickpen",
+	"flip_x": false,
+	"healthbar_colors": [217, 33, 33],
+	"camera_position": [-400, 0],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"offsets": [335, 83],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Kid"
+		},
+		{
+			"offsets": [345, 84],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Kle"
+		},
+		{
+			"offsets": [333, 84],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Kri"
+		},
+		{
+			"offsets": [335, 82],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Kup"
+		},
+		{
+			"offsets": [324, 86],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Kdo"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Kyte",
+	"position": [0, 100],
+	"healthicon": "Kyte",
+	"flip_x": false,
+	"healthbar_colors": [255, 255, 128],
+	"camera_position": [-200, 70],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}
