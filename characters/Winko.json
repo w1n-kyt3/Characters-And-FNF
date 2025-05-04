@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [324, 85],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Wle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [326, 85],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Wri",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [318, 88],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Wdo",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [323, 87],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Wup",
+			"indices": []
+		},
+		{
+			"offsets": [333, 84],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Wid"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Winko",
+	"position": [0, 100],
+	"healthicon": "Winko",
+	"flip_x": false,
+	"healthbar_colors": [0, 0, 128],
+	"camera_position": [-250, 110],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}
