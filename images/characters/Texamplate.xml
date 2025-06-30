@@ -16,28 +16,16 @@
     <SubTexture name="Tdo0" x="10" y="1610" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
     <SubTexture name="Tdo1" x="1210" y="1610" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
     <SubTexture name="Tdo2" x="2410" y="1610" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
-    <SubTexture name="Tdo3" x="2410" y="1610" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
-    <SubTexture name="Tdo4" x="1210" y="1610" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
-    <SubTexture name="Tdo5" x="10" y="1610" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
 
     <SubTexture name="Tle0" x="10" y="2410" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
     <SubTexture name="Tle1" x="1210" y="2410" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
     <SubTexture name="Tle2" x="2410" y="2410" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
-    <SubTexture name="Tle3" x="2410" y="2410" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
-    <SubTexture name="Tle4" x="1210" y="2410" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
-    <SubTexture name="Tle5" x="10" y="2410" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
 
     <SubTexture name="Tri0" x="10" y="3210" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
     <SubTexture name="Tri1" x="1210" y="3210" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
     <SubTexture name="Tri2" x="2410" y="3210" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
-    <SubTexture name="Tri3" x="2410" y="3210" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
-    <SubTexture name="Tri4" x="1210" y="3210" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
-    <SubTexture name="Tri5" x="10" y="3210" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
 
     <SubTexture name="Tup0" x="10" y="4010" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
     <SubTexture name="Tup1" x="1210" y="4010" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
     <SubTexture name="Tup2" x="2410" y="4010" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
-    <SubTexture name="Tup3" x="2410" y="4010" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
-    <SubTexture name="Tup4" x="1210" y="4010" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
-    <SubTexture name="Tup5" x="10" y="4010" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
 </TextureAtlas>

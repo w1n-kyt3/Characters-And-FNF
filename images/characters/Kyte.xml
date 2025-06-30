@@ -16,28 +16,16 @@
     <SubTexture name="Kdo0" x="10" y="1610" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
     <SubTexture name="Kdo1" x="1210" y="1610" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
     <SubTexture name="Kdo2" x="2410" y="1610" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
-    <SubTexture name="Kdo3" x="2410" y="1610" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
-    <SubTexture name="Kdo4" x="1210" y="1610" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
-    <SubTexture name="Kdo5" x="10" y="1610" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
 
     <SubTexture name="Kle0" x="10" y="2410" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
     <SubTexture name="Kle1" x="1210" y="2410" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
     <SubTexture name="Kle2" x="2410" y="2410" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
-    <SubTexture name="Kle3" x="2410" y="2410" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
-    <SubTexture name="Kle4" x="1210" y="2410" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
-    <SubTexture name="Kle5" x="10" y="2410" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
 
     <SubTexture name="Kri0" x="10" y="3210" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
     <SubTexture name="Kri1" x="1210" y="3210" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
     <SubTexture name="Kri2" x="2410" y="3210" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
-    <SubTexture name="Kri3" x="2410" y="3210" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
-    <SubTexture name="Kri4" x="1210" y="3210" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
-    <SubTexture name="Kri5" x="10" y="3210" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
 
     <SubTexture name="Kup0" x="10" y="4010" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
     <SubTexture name="Kup1" x="1210" y="4010" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
     <SubTexture name="Kup2" x="2410" y="4010" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
-    <SubTexture name="Kup3" x="2410" y="4010" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
-    <SubTexture name="Kup4" x="1210" y="4010" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
-    <SubTexture name="Kup5" x="10" y="4010" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
 </TextureAtlas>
