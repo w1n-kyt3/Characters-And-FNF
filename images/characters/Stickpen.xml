@@ -16,29 +16,17 @@
     <SubTexture name="Sdo0" x="10" y="1610" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
     <SubTexture name="Sdo1" x="1210" y="1610" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
     <SubTexture name="Sdo2" x="2410" y="1610" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
-    <SubTexture name="Sdo3" x="2410" y="1610" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
-    <SubTexture name="Sdo4" x="1210" y="1610" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
-    <SubTexture name="Sdo5" x="10" y="1610" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
 
     <SubTexture name="Sle0" x="10" y="2410" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
     <SubTexture name="Sle1" x="1210" y="2410" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
     <SubTexture name="Sle2" x="2410" y="2410" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
-    <SubTexture name="Sle3" x="2410" y="2410" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
-    <SubTexture name="Sle4" x="1210" y="2410" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
-    <SubTexture name="Sle5" x="10" y="2410" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
 
     <SubTexture name="Sri0" x="10" y="3210" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
     <SubTexture name="Sri1" x="1210" y="3210" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
     <SubTexture name="Sri2" x="2410" y="3210" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
-    <SubTexture name="Sri3" x="2410" y="3210" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
-    <SubTexture name="Sri4" x="1210" y="3210" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
-    <SubTexture name="Sri5" x="10" y="3210" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
 
     <SubTexture name="Sup0" x="10" y="4010" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
     <SubTexture name="Sup1" x="1210" y="4010" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
     <SubTexture name="Sup2" x="2410" y="4010" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
-    <SubTexture name="Sup3" x="2410" y="4010" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
-    <SubTexture name="Sup4" x="1210" y="4010" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
-    <SubTexture name="Sup5" x="10" y="4010" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
 
 </TextureAtlas>

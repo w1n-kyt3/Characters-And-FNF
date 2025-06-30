@@ -16,28 +16,16 @@
     <SubTexture name="Wup0" x="10" y="1610" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
     <SubTexture name="Wup1" x="1210" y="1610" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
     <SubTexture name="Wup2" x="2410" y="1610" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
-    <SubTexture name="Wup3" x="2410" y="1610" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
-    <SubTexture name="Wup4" x="1210" y="1610" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
-    <SubTexture name="Wup5" x="10" y="1610" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
 
     <SubTexture name="Wri0" x="10" y="2410" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
     <SubTexture name="Wri1" x="1210" y="2410" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
     <SubTexture name="Wri2" x="2410" y="2410" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
-    <SubTexture name="Wri3" x="2410" y="2410" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
-    <SubTexture name="Wri4" x="1210" y="2410" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
-    <SubTexture name="Wri5" x="10" y="2410" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
 
     <SubTexture name="Wle0" x="10" y="3210" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
     <SubTexture name="Wle1" x="1210" y="3210" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
     <SubTexture name="Wle2" x="2410" y="3210" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
-    <SubTexture name="Wle3" x="2410" y="3210" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
-    <SubTexture name="Wle4" x="1210" y="3210" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
-    <SubTexture name="Wle5" x="10" y="3210" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
 
     <SubTexture name="Wdo0" x="10" y="4010" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
     <SubTexture name="Wdo1" x="1210" y="4010" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
     <SubTexture name="Wdo2" x="2410" y="4010" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
-    <SubTexture name="Wdo3" x="2410" y="4010" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
-    <SubTexture name="Wdo4" x="1210" y="4010" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
-    <SubTexture name="Wdo5" x="10" y="4010" width="1180" height="780" frameX="0" frameY="0" frameWidth="1180" frameHeight="780" />
 </TextureAtlas>
