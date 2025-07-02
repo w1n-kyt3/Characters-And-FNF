@@ -1,0 +1,54 @@
+{
+	"songs": [
+		[
+			"Unwilling",
+			"winko",
+			[
+				0,
+				0,
+				128
+			]
+		],
+		[
+			"Rooftop",
+			"kyte",
+			[
+				255,
+				255,
+				128
+			]
+		],
+		[
+			"Round 3 Fight!",
+			"stickpen",
+			[
+				217,
+				33,
+				33
+			]
+		],
+		[
+			"My Own World",
+			"texamplate",
+			[
+				76,
+				191,
+				86
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "philly",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"pico",
+		"bf",
+		"gf"
+	],
+	"storyName": "Characters & Friday Night Funkin'",
+	"weekName": "Week Characters",
+	"hideStoryMode": false,
+	"weekBefore": "",
+	"startUnlocked": true
+}

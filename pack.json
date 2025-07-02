@@ -1,0 +1,9 @@
+{
+	"name": "Characters & Friday Night Funkin'",
+	"description": "Characters having fun, this time in Friday Night Funkin'!",
+	"restart":false,
+	"runsGlobally": false,
+	"color": [127, 127, 127],
+	"discordRPC": "863222024192262205",
+	"iconFramerate": 10
+}
